@@ -13,7 +13,7 @@ Please feel free to browse through my projects and use any code that may be help
   - Unit tests
   - E2E tests
   - Storybook
-- 🌱 I’m currently learning Dart and Flutter 🤘
+- 🌱 I’m currently learning Golang 🤘
 - 📫 How to reach me: bruno20152013@gmail.com or [LinkedIn](https://www.linkedin.com/in/brunoasnt/)
 
 Thank you for visiting my GitHub profile!
